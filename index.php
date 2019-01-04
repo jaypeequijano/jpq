@@ -4,6 +4,6 @@
       <title>Library System Class</title>
 </head>
 <body>
-  <img src="diagram">
+  <img src="diagram.jpg">
 </body>
 </html>
